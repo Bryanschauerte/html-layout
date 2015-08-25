@@ -1,0 +1,35 @@
+.blue {
+  background-color: #4D94FF;
+  height: 1000px;
+ width: 33%;
+  display: block;
+  float: left;
+}
+
+.sea {
+  display: block;
+  float: left;
+  height: 1000px;
+  width: 33.3%;
+  background-color: #78E8C3;
+
+}
+
+.green {
+  float: left;
+  display: block;
+    height: 1000px;
+  width: 33.3%;
+  background-color: #9BE69B;
+  position: relative;
+
+
+}
+img {
+  height: 300px;
+  width:100%;
+  float: left;
+position: absolute;
+ bottom: 0;
+  right: 0;
+}
